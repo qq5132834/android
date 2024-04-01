@@ -3,3 +3,6 @@ android/app/.cxx/*
 android/app/build/*
 android/local.properties
 android/.gradle/*
+
+android-ndk-r22b/*
+ffmpeg-4.2.1/*
