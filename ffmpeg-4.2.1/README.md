@@ -28,6 +28,11 @@
                             |____x264
                             |____lame
 ```
+## 6 下载解压NDK
+```
+		wget https://dl.google.com/android/repository/android-ndk-r22b-linux-x86_64.zip
+		unzip android-ndk-r22b-linux-x86_64.zip
+```
 
 
 
