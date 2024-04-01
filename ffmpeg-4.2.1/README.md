@@ -28,12 +28,18 @@
                             |____x264
                             |____lame
 ```
-## 6 下载解压NDK
+## 6、下载解压NDK
 ```
 		wget https://dl.google.com/android/repository/android-ndk-r22b-linux-x86_64.zip
 		unzip android-ndk-r22b-linux-x86_64.zip
 ```
 
-
+## 7、 可能还需要安装的辅助工具
+```
+		sudo apt update
+		sudo apt install autoconf
+		sudo apt-get install libtool
+		sudo apt-get install nasm
+```
 
 
